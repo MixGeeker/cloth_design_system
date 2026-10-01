@@ -1,0 +1,5 @@
+[
+ {"id":"A","label":"基准比例成人","synthetic":true,"age_years":25,"units":"mm","height":1680,"bust":860,"waist":660,"hip":920,"shoulder":380,"neck":330,"back_waist_length":400,"front_waist_length":430,"arm_length":560,"upper_arm":270,"wrist":150,"waist_to_knee":560,"head":560},
+ {"id":"B","label":"较矮且腰围较大成人","synthetic":true,"age_years":30,"units":"mm","height":1560,"bust":980,"waist":900,"hip":1040,"shoulder":390,"neck":360,"back_waist_length":375,"front_waist_length":425,"arm_length":520,"upper_arm":330,"wrist":170,"waist_to_knee":500,"head":570},
+ {"id":"C","label":"较高且肩部较宽成人","synthetic":true,"age_years":28,"units":"mm","height":1800,"bust":940,"waist":780,"hip":1000,"shoulder":460,"neck":370,"back_waist_length":450,"front_waist_length":470,"arm_length":620,"upper_arm":310,"wrist":170,"waist_to_knee":620,"head":580}
+]
