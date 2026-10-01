@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "mode": "synthetic_contract_fixture",
+  "character": null,
+  "outfit": "通用几何与交付合同测试",
+  "reference_status": "original_synthetic_fixture",
+  "analysis_author": "manually authored engineering contract fixture, not visual AI inference",
+  "references": [
+    {
+      "id": "neutral",
+      "url": "examples/neutral_fixture.svg",
+      "sha256": "cfa4a5571723fdc3082392475c4dd11a9101dfeb4e8a828fbfc99113a8007e9b",
+      "rights": "Original neutral test diagram"
+    }
+  ],
+  "components": [
+    {
+      "id": "torso",
+      "label": "白色贴身主体",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "upper_band",
+      "label": "蓝黑胸背饰带",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "hip_flounce",
+      "label": "白蓝短下摆",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "upper_sleeve",
+      "label": "蓝色分离上臂袖",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "forearm_sleeve",
+      "label": "深色前臂袖",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "cuff",
+      "label": "白色袖口",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "neckband",
+      "label": "白色颈带",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "tie",
+      "label": "黄色领饰",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "hip_insert",
+      "label": "黄色髋侧片",
+      "status": "generate",
+      "material": "toile prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "shoulder_disc",
+      "label": "双侧肩袖圆盘",
+      "status": "generate",
+      "material": "PLA/PETG decorative prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    },
+    {
+      "id": "neck_charm",
+      "label": "绿色颈饰",
+      "status": "generate",
+      "material": "PLA/PETG decorative prototype",
+      "observations": [
+        {
+          "text": "Original synthetic geometry test component, not inferred from an image",
+          "reference_id": "neutral",
+          "confidence": "fixture"
+        }
+      ],
+      "construction_hypotheses": [
+        "通用几何原型；不对应任何角色服装；仅测试生成和校验接口"
+      ],
+      "uncertainty": "construction_unverified",
+      "editable": true
+    }
+  ],
+  "unknowns": [
+    {
+      "id": "closure",
+      "question": "主体背面/侧面闭合方式？",
+      "hypothesis": "隐藏侧拉链，待样衣确认",
+      "editable": true
+    },
+    {
+      "id": "seams",
+      "question": "线条是否真实接缝？",
+      "hypothesis": "主体轮廓线仅参考，采用可修改工程分片",
+      "editable": true
+    },
+    {
+      "id": "material",
+      "question": "面料材质和弹性？",
+      "hypothesis": "白蓝梭织主体、深色针织前臂袖",
+      "editable": true
+    },
+    {
+      "id": "scale",
+      "question": "原图缺少物理尺寸",
+      "hypothesis": "只按虚构成人身体数据生成工程尺寸",
+      "editable": true
+    }
+  ],
+  "limitations": [
+    "通用合同夹具，不代表真实图像分析",
+    "样衣原型；未经实物试穿或工厂验证",
+    "bom.csv为组件/文件登记表，尚未完成面料排料与辅料采购数量核算"
+  ]
+}
